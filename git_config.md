@@ -1,0 +1,3 @@
+# Git Config
+
+## Configuration Settings
